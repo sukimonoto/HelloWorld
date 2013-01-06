@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MegaFilmPro</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="category">Category Film</string>
+    <string name="loading">Loading Data ...</string>
+
+    
+</resources>
